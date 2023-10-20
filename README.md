@@ -1,5 +1,5 @@
 # ToDo-List
-ToDo list application
+ToDo list React application
 
 # Getting Started with Create React App
 
